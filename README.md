@@ -46,4 +46,4 @@ Predicting the outcome of cricket matches is a complex task involving many facto
 To run the prediction model locally:
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/IPL-Winner-Prediction.git
+   git clone https://github.com/Anuriya-Raveendran/IPL-Winner-Prediction.git
